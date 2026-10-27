@@ -89,7 +89,7 @@ A personal portfolio site to present my work, projects, and professional profile
 
 - Focus: personal branding, clean layout, accessibility, project showcase
 - Live Demo: [Open Portfolio](https://portfolio-chi-henna-74.vercel.app/)
-- Custom domain: [shuvo-das.bro.bd](https://shuvo-das.bro.bd/)
+- Custom domain: [Developer Naim](https://portfolio-chi-henna-74.vercel.app/)
 
 ---
 
@@ -119,8 +119,8 @@ A personal portfolio site to present my work, projects, and professional profile
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/mdnaimhasanofficial-glitch)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel)](https://portfolio-chi-henna-74.vercel.app/)
 
-- Email: your.email@example.com
-- LinkedIn: Add your LinkedIn profile URL here
+- Email: mdnaimhasan.official@gmail.com
+- LinkedIn:https://www.linkedin.com/in/naimhasan706016/
 
 ---
 
